@@ -5,6 +5,7 @@ I will be making my first project of building a basic recipe website
 To do this I will need to have slills in 
 
 1.HTML Basics
+
     * Know <!DOCTYPE html>
     * Know <html></html> element
     * Know <html lang="en"> attribute of html element
@@ -23,6 +24,7 @@ To do this I will need to have slills in
     * Know <img scr=""> image element and source attribute
 
 2.Terminal Basics
+
     * Know Terminal syntax (command Option path)
     * Know pwd print working directory
     * Know ls list working directory
@@ -47,6 +49,7 @@ To do this I will need to have slills in
     * Know code open IDE for current directory
 
  3.Git Basics
+ 
     * Know create repo in GitHub
     * Know git clone
     * Know git remote -v
