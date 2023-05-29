@@ -1,0 +1,15 @@
+h1, h3 {
+    background-color: antiquewhite;
+    text-align: left;
+    color: cadetblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p, ol, ul {
+    background-color: beige;
+    color: lightcoral;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+  

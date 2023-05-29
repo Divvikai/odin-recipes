@@ -49,7 +49,7 @@ To do this I will need to have slills in
     * Know code open IDE for current directory
 
  3.Git Basics
- 
+
     * Know create repo in GitHub
     * Know git clone
     * Know git remote -v
